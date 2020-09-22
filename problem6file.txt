@@ -1,0 +1,94 @@
+The names having max number of characters are :- 1. Debanjan Bhattacharjee
+with 21 characters
+The names having least number of characters are :- 1. Saif Raj
+with 7 characters
+The names in sorted order (ascending order) :- 1. ATANU GHOSH
+2. Aadarsh Ganesh Goenka
+3. Abhinaba Chowdhury
+4. Abhinav Aarya
+5. Agniv Ghosh
+6. Agniva Bhattacharya
+7. Aisik Saha
+8. Akash Pal
+9. Anirban Das
+10. Anubhab Das
+11. Anubhab Ghosh 
+12. Apurba Halder
+13. Aritra Chakraborty
+14. Aritra Das
+15. Arjun Mallick
+16. Arka Choudhuri
+17. Arkadeep De
+18. Arpan Mandal
+19. Arpan Nandi 
+20. Arunesh Manna
+21. Aryapriyo Mandal
+22. Avigyan Bhattacharya
+23. Avineet Sharma
+24. Avirup Bhattacharyya 
+25. Ayush Chowdhury
+26. Bhaswata Sarkar
+27. Chirantan Nath 
+28. Debadrita Roy
+29. Debanjan Bhattacharjee
+30. Debargha Mukherjee
+31. Deepamoy Pal
+32. Dipyaman Sanyal
+33. Divyanshu kumar
+34. Gourab Naskar
+35. Hrishikesh Mallick
+36. Jaydip Dey
+37. Koushan De
+38. Koustav Dhar
+39. Mahek Shamsukha
+40. Maksedul Rahaman Molla
+41. Manish Hazra
+42. Manojit Das
+43. Masud Karim
+44. Mohiuddin Mondal
+45. Mu In Nasif
+46. Muneeb Ahmad Ganie
+47. Neeladri Pal
+48. Nripen Tudu
+49. Partha Sarathi Maji
+50. Priyangshu Saiba
+51. Pulak Kumar Ghosh
+52. RAMKRISHNA MINJI
+53. Rahul Manna
+54. Rahul Pramanick
+55. Rajibul Rahaman Shaikh 
+56. Ratul Chakraborty
+57. Rishiraj Baul
+58. Ritabroto Ganguly
+59. Ritacheta Das
+60. Rohit Kumar Sadhukhan
+61. Rwitick Ghosh
+62. Sagnik Ganguly
+63. Saif Raj
+64. Samaresh Koley
+65. Samayan Bhattacharya 
+66. Sanmit Mandal
+67. Sanskar Jhajharia
+68. Saptarshi Rakshit
+69. Saswata Chowdhury
+70. Satabda Mandal
+71. Satyam Gupta
+72. Saurabh Mukherjee
+73. Sayantan Biswas
+74. Shakeeb Ilmi Noor
+75. Sk Shahnawaz
+76. Soumita Paul 
+77. Soumitra Sinhahajari
+78. Srirupa Ray Chaudhuri
+79. Subhadeep Mandal
+80. Sukanya Sardar
+81. Sumon Jolua
+82. Suvayu Kumar Mondal
+83. Swadesh Jana
+84. Tasmiul Alam Shopnil
+85. Trishit Mukherjee
+86. Vivek Kumar Shaw
+87. Vivek kalsotra
+88. Wreetbhas Pal
+89. ZEESHAN IQBAL
+90. indranil jana

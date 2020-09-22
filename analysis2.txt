@@ -1,0 +1,7 @@
+Ananlysis for problem two (fibinacci calc using recursion and iteration)
+
+OBSV1 (for int dtype):- for n <= 46 the both the functions give correct ouput and within 3-4 seconds, but for value more than 46 it takes longer duration to show the result
+
+OBSV2 :- for value more than 47, overflow occurs for both the functions
+
+OBSV3 (for long long dtype):- for n <= 92 the iterative function returns proper value (7540113804746346429) but for n = 93 overflow occurs ans recursive function takes much longer time to return the same result
